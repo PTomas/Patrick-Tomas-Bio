@@ -5,10 +5,19 @@
 }
 
 .arial{
-    font-family: aria;
+    font-family: arial;
+    margin: 70px;
+}
+
+.image_view{
+    float: left;
 }
 
 #mainbio{
     margin= 70px;
-    width=70%;
+}
+
+.footer{
+    font-size: smaller;
+    color: gray;
 }
